@@ -1,0 +1,16 @@
+#red {
+    text-align: center;
+    color: white;
+}
+
+#item {
+    border: 1px solid white;
+    background: #343a40;
+    border-radius: 10px;
+    margin: 3px;
+}
+
+#item:hover {
+    background: slategray;
+    cursor: pointer;
+}

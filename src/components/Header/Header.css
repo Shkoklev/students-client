@@ -1,0 +1,12 @@
+.fa {
+    margin-right: 8px;
+}
+
+.nav li {
+    padding: 10px;
+    font-size: 20px;
+}
+
+li:hover {
+    background: slategray;
+}
